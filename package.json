@@ -1,10 +1,11 @@
 {
   "name": "connect",
   "version": "1.0.0",
-  "main": "Activity.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "onlineHostTrail.js",
+"scripts": {
+  "start": "node onlineHostTrail.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -25,3 +26,4 @@
     "typescript": "^5.4.5"
   }
 }
+
